@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P63001HTTPClient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="textview">Search for books!</string>
+    <string name="button">Search</string>
+    <string name="hint">input</string>
+</resources>
